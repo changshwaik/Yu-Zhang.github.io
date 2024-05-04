@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yu Zhang"
 title_separator          : "-"
-name                     : &name "Yu Zhang"
+name                     : &name "Yu Zhang's Personal Homepage"
 description              : &description "personal description"
 url                      : https://changshwaik.github.io/Yu-Zhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Harbin, China"
   employer         : "Heilongjiang University of Science and Technology (USTH)"
   uri              : "https://changshwaik.github.io/Yu-Zhang.github.io/"
-  email            : [ChangShwaik@outlook.com](ChangShwaik@outlook.com) 
+  email            : "ChangShwaik@outlook.com"
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile
