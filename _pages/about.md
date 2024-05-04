@@ -16,6 +16,6 @@ Machine learing, which relies on computer skills and mathematical knowledge and 
 
 My research interests are as follows:
 
-<br>·Machine Learning Based on Optimization Algorithm    
+<br>·Machine Learning Based on Optimization Algorithm
 <br>·Applied Machine Learning
 <br>·Computer Vision
