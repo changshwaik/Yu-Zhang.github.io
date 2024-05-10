@@ -21,7 +21,7 @@ repository               : "https://changshwaik.github.io/Yu-Zhang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhang.png"
   name             : "Yu Zhang"
  # pronouns         : "He/him"  
   bio              : "A CS undergraduate student"
