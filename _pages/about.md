@@ -15,6 +15,6 @@ As a student major in computer science, I am really into programming. Moreover, 
 Machine learing, which relies on computer skills and mathematical knowledge and can be applied to our daily life, is my favourate research area. I hope to be a researcher in this field.
 
 My research interests are as follows：
-<br>·Machine Learning Based on Optimization Algorithm
-<br>·Applied Machine Learning
-<br>·Computer Vision
+<br>· Machine Learning Based on Optimization Algorithm
+<br>· Applied Machine Learning
+<br>· Computer Vision
